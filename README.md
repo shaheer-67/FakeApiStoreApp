@@ -1,11 +1,11 @@
-echo "# 📱 React Native Product Showcase App
+ React Native Product Showcase App
 
 This is a simple React Native app built using **Expo CLI**.  
 It displays a product list, shows product details, and includes a **camera feature** to capture and preview photos.
 
 ---
 
-## 🚀 How to Run the App
+##  How to Run the App
 
 > ✅ No need to install anything extra if the folder is already set up.
 
