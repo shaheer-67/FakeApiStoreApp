@@ -1,21 +1,3 @@
-
----
-
-### How to add this via GitHub UI:
-
-1. Go to your repo on GitHub  
-2. Click on **Add a README** or if README exists, click **Edit README.md**  
-3. Paste the whole above content into the editor  
-4. Scroll down and write a commit message (e.g., "Add README with setup and architecture")  
-5. Click **Commit changes**
-
----
-
-If you want to add this from **terminal (locally)**:
-
-- Create or overwrite the file:
-
-```bash
 echo "# 📱 React Native Product Showcase App
 
 This is a simple React Native app built using **Expo CLI**.  
